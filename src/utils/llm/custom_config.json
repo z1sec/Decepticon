@@ -1,0 +1,282 @@
+[
+  {
+    "display_name": "阿里百炼 Qwen Turbo",
+    "model_name": "qwen-turbo",
+    "provider": "custom",
+    "api_base": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "api_key_env": "DASHSCOPE_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "阿里百炼 Qwen Plus",
+    "model_name": "qwen-plus",
+    "provider": "custom",
+    "api_base": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "api_key_env": "DASHSCOPE_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "阿里百炼 Qwen Max",
+    "model_name": "qwen-max",
+    "provider": "custom",
+    "api_base": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "api_key_env": "DASHSCOPE_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "通义千问 Qwen3 72B",
+    "model_name": "qwen3-72b",
+    "provider": "custom",
+    "api_base": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "api_key_env": "DASHSCOPE_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "通义千问 Qwen3 32B",
+    "model_name": "qwen3-32b",
+    "provider": "custom",
+    "api_base": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "api_key_env": "DASHSCOPE_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "通义千问 Qwen3 14B",
+    "model_name": "qwen3-14b",
+    "provider": "custom",
+    "api_base": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "api_key_env": "DASHSCOPE_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "通义千问 Qwen3 7B",
+    "model_name": "qwen3-7b",
+    "provider": "custom",
+    "api_base": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "api_key_env": "DASHSCOPE_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "通义千问 Qwen3 4B",
+    "model_name": "qwen3-4b",
+    "provider": "custom",
+    "api_base": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "api_key_env": "DASHSCOPE_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "通义千问 Qwen3 1.8B",
+    "model_name": "qwen3-1.8b",
+    "provider": "custom",
+    "api_base": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "api_key_env": "DASHSCOPE_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "通义千问 Qwen3 0.5B",
+    "model_name": "qwen3-0.5b",
+    "provider": "custom",
+    "api_base": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "api_key_env": "DASHSCOPE_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "零一万物 Yi-34B-Chat",
+    "model_name": "yi-34b-chat",
+    "provider": "custom",
+    "api_base": "https://api.lingyiwanwu.com/v1",
+    "api_key_env": "LINGYI_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "零一万物 Yi-34B",
+    "model_name": "yi-34b",
+    "provider": "custom",
+    "api_base": "https://api.lingyiwanwu.com/v1",
+    "api_key_env": "LINGYI_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "零一万物 Yi-6B-Chat",
+    "model_name": "yi-6b-chat",
+    "provider": "custom",
+    "api_base": "https://api.lingyiwanwu.com/v1",
+    "api_key_env": "LINGYI_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "智谱 GLM-4-Flash",
+    "model_name": "glm-4-flash",
+    "provider": "custom",
+    "api_base": "https://open.bigmodel.cn/api/paas/v4",
+    "api_key_env": "ZHIPUAI_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "智谱 GLM-4-Plus",
+    "model_name": "glm-4-plus",
+    "provider": "custom",
+    "api_base": "https://open.bigmodel.cn/api/paas/v4",
+    "api_key_env": "ZHIPUAI_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "智谱 GLM-4-Air",
+    "model_name": "glm-4-air",
+    "provider": "custom",
+    "api_base": "https://open.bigmodel.cn/api/paas/v4",
+    "api_key_env": "ZHIPUAI_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "智谱 GLM-4-Long",
+    "model_name": "glm-4-long",
+    "provider": "custom",
+    "api_base": "https://open.bigmodel.cn/api/paas/v4",
+    "api_key_env": "ZHIPUAI_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "智谱 GLM-4-FlashX",
+    "model_name": "glm-4-flashx",
+    "provider": "custom",
+    "api_base": "https://open.bigmodel.cn/api/paas/v4",
+    "api_key_env": "ZHIPUAI_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "智谱 GLM-4-AllTools",
+    "model_name": "glm-4-alltools",
+    "provider": "custom",
+    "api_base": "https://open.bigmodel.cn/api/paas/v4",
+    "api_key_env": "ZHIPUAI_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "智谱 GLM-4-Plus-Premier",
+    "model_name": "glm-4-plus-premier",
+    "provider": "custom",
+    "api_base": "https://open.bigmodel.cn/api/paas/v4",
+    "api_key_env": "ZHIPUAI_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "智谱 CogView-3-Plus",
+    "model_name": "cogview-3-plus",
+    "provider": "custom",
+    "api_base": "https://open.bigmodel.cn/api/paas/v4",
+    "api_key_env": "ZHIPUAI_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "月之暗面 Kimi Chat",
+    "model_name": "moonshot-v1-8k",
+    "provider": "custom",
+    "api_base": "https://api.moonshot.cn/v1",
+    "api_key_env": "MOONSHOT_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "月之暗面 Kimi Chat 32K",
+    "model_name": "moonshot-v1-32k",
+    "provider": "custom",
+    "api_base": "https://api.moonshot.cn/v1",
+    "api_key_env": "MOONSHOT_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "月之暗面 Kimi Chat 128K",
+    "model_name": "moonshot-v1-128k",
+    "provider": "custom",
+    "api_base": "https://api.moonshot.cn/v1",
+    "api_key_env": "MOONSHOT_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "百川 Baichuan4",
+    "model_name": "Baichuan4",
+    "provider": "custom",
+    "api_base": "https://api.baichuan-ai.com/v1",
+    "api_key_env": "BAICHUAN_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "百川 Baichuan3-Turbo",
+    "model_name": "Baichuan3-Turbo",
+    "provider": "custom",
+    "api_base": "https://api.baichuan-ai.com/v1",
+    "api_key_env": "BAICHUAN_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "百川 Baichuan3-Turbo-128k",
+    "model_name": "Baichuan3-Turbo-128k",
+    "provider": "custom",
+    "api_base": "https://api.baichuan-ai.com/v1",
+    "api_key_env": "BAICHUAN_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "讯飞星火 Spark Pro",
+    "model_name": "generalv3.5",
+    "provider": "custom",
+    "api_base": "https://spark-api-open.xf-yun.com/v1",
+    "api_key_env": "XFYUN_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "讯飞星火 Spark Max",
+    "model_name": "generalv4.0",
+    "provider": "custom",
+    "api_base": "https://spark-api-open.xf-yun.com/v1",
+    "api_key_env": "XFYUN_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "讯飞星火 Spark Lite",
+    "model_name": "general",
+    "provider": "custom",
+    "api_base": "https://spark-api-open.xf-yun.com/v1",
+    "api_key_env": "XFYUN_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "混元 HunYuan Lite",
+    "model_name": "hunyuan-lite",
+    "provider": "custom",
+    "api_base": "https://api.hunyuan.cloud.tencent.com/v1",
+    "api_key_env": "HUNYUAN_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "混元 HunYuan Standard",
+    "model_name": "hunyuan-standard",
+    "provider": "custom",
+    "api_base": "https://api.hunyuan.cloud.tencent.com/v1",
+    "api_key_env": "HUNYUAN_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "混元 HunYuan Standard-256K",
+    "model_name": "hunyuan-standard-256k",
+    "provider": "custom",
+    "api_base": "https://api.hunyuan.cloud.tencent.com/v1",
+    "api_key_env": "HUNYUAN_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "混元 HunYuan Pro",
+    "model_name": "hunyuan-pro",
+    "provider": "custom",
+    "api_base": "https://api.hunyuan.cloud.tencent.com/v1",
+    "api_key_env": "HUNYUAN_API_KEY",
+    "model_type": "openai_compatible"
+  },
+  {
+    "display_name": "魔搭 ModelScope GLM-5",
+    "model_name": "ZhipuAI/GLM-5",
+    "provider": "custom",
+    "api_base": "https://api-inference.modelscope.cn/v1",
+    "api_key_env": "MODELSCOPE_API_KEY",
+    "model_type": "openai_compatible"
+  }
+]

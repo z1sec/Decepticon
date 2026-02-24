@@ -1,0 +1,29 @@
+.venv/
+.langgraph_api/
+.env
+load_env.bat
+logs/
+data/
+tests/
+backup/
+
+ex_version/
+ex_version/
+.cursor/
+.vscode/
+*.egg-info/
+
+# Python byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+.python-version
+
+cliv3.py
+frontend/MIGRATION_GUIDE.md 
+frontend/REFACTORING_COMPLETE.md
+
+# Environments
+.env
+.venv
+

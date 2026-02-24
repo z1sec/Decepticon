@@ -1,0 +1,7 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+      "Decepticon": "./src/graphs/swarm.py:create_dynamic_swarm"
+    },
+    "env": ".env"
+  }
